@@ -1,1 +1,2 @@
-Some content for later
+This text is in file4.txt and from newfeature Branch.
+A new line in file4.txt from Master branch.
